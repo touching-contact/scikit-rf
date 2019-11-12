@@ -1,0 +1,8 @@
+# Keyboard shortcut	Description　（Ｇｉｔｈｕｂ）
+Ctrl ,	Go to Options
+Ctrl =	Zoom in for larger text and graphics
+Ctrl -	Zoom out for smaller text and graphics
+Ctrl `	Open repository in your preferred command line tool
+
+Ctrl Shift F	Show the repository in Explorer
+Ctrl Shift A	Open the repository in your preferred editor tool
